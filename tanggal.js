@@ -1,0 +1,3 @@
+exports.tanggal = () => {
+    return Date();
+}
